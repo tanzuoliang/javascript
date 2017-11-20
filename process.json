@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name": "clientLog",
+    "script": "httpServer.js",
+    "node_args": "",
+    "watch": true,
+    "log_date_format": "YYYY - MM - DD HH: mm Z"
+  }]
+}
